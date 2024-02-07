@@ -29,3 +29,7 @@ yarn-error.log*
 # Arquivos de cache do IDE
 .idea/
 .vscode/
+
+#Banco
+tmp/app.db
+

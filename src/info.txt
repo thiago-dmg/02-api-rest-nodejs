@@ -12,3 +12,10 @@ ESLint
 
 npm i eslint @rocketseat/eslint-config -D
 
+Banco de Dados
+
+SQLITE (Relacional)
+
+Configurando o KNEX
+
+
