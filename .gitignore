@@ -31,5 +31,5 @@ yarn-error.log*
 .vscode/
 
 #Banco
-tmp/app.db
+db/app.db
 
