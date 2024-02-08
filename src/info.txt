@@ -22,14 +22,19 @@ npm install knex sqlite3
 
 Migrations
 
-npx knex migrate:make create-documents
-
-npm run knex -- migrate:make create-documents
+npm run knex -- migrate:make create-document
 
 Executar => npm run knex -- migrate:latest
 RollBack => npm run knex -- migrate:rollback
 
 npm run knex -- migrate:make add-session-id-to-transactions
+
+create-documents
+
+add-session-id-to-transactions
+
+
+
 
 
 
