@@ -32,8 +32,7 @@ yarn-error.log*
 .vscode/
 
 #Banco
-db/app.db
-db/test.db
+db/*.db
 
 
 #Build
