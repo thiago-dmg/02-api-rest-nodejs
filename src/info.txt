@@ -74,10 +74,11 @@ npm i supertest -D
 
 npm i -D @types/supertest
 
+Deploy 
 
+npm i tsup -D
 
-
-
+npm i pg (Drive do PostGress)
 
 
 
