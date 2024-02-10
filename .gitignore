@@ -32,4 +32,4 @@ yarn-error.log*
 
 #Banco
 db/app.db
-
+.env.test
