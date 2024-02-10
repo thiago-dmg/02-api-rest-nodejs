@@ -54,17 +54,25 @@ ENVS - ZOD
 
 Cookies
 
+npm i @fastify/cookie
 
 
+Testes Automatizados
+
+Existem 2 tipos: Unitários , Integração , E2E (Ponta a Ponta)
+
+Unitários: Testa a unidade da sua aplicação
+Integração: Comunicação entre duas ou mais unidades
+E2E: Simula um usuário operando na nossa aplicação
 
 
+Vitest
 
+npm i vitest -D
 
+npm i supertest -D
 
-
-
-
-
+npm i -D @types/supertest
 
 
 
