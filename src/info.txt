@@ -80,8 +80,11 @@ npm i tsup -D
 
 npm i pg (Drive do PostGress)
 
+postgres://ignite_nodejs_02_db_rc14_user:rxYptvDFzTk8w1PJgfY9WSOSsamPrope@dpg-cn3uiaq1hbls73aee0k0-a/ignite_nodejs_02_db_rc14
 
+ "dev": "ts-node --transpile-only --files src/server.ts"
 
+// "dev": "tsx watch --import src/server.ts",
 
 
 
